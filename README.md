@@ -18,4 +18,5 @@ I am a Software Engineer with over one year of experience creating Full-Stack ex
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
 </div>
 
+## Github Activity:
 [![GitHub Streak](https://streak-stats.demolab.com?user=GrantLindquist&theme=dark&hide_border=true&mode=weekly)](https://git.io/streak-stats)
